@@ -27,10 +27,10 @@ export default function Navbar() {
       {/* Logo */}
       <Link href="/" className="flex items-center">
         <Image
-          src="/logos/va-studios-logo.svg"
+          src="/logos/va-studios-logo-color.png"
           alt="VA Studios"
-          width={90}
-          height={50}
+          width={60}
+          height={60}
           className="object-contain"
           priority
         />
